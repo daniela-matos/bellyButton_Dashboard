@@ -14,6 +14,8 @@ Interactive dashboard to explore the Belly Button Biodiversity DataSet.
 
 #### Link to the App
 
+https://app-bellybutton-dashboard.herokuapp.com
+
 
   
 
